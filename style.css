@@ -63,3 +63,8 @@ button{
 button:hover{
     transform: scale(1.05);
 }
+
+.about{
+    text-align: center;
+    padding: 80px 20px;
+}
